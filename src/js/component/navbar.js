@@ -14,11 +14,6 @@ export const Navbar = () => {
 	</Link>
     <div className="collapse navbar-collapse" id="navbarSupportedContent">
       <ul className="navbar-nav me-auto mb-2 mb-lg-0">
-	  <Link style={{textDecoration : "none"}}  to="/">
-        <li className="nav-item">
-        <span className="nav-link">Home</span>
-        </li>
-		</Link>
 		<Link style={{textDecoration : "none"}} to="/people">
         <li className="nav-item">
           <span className="nav-link">People</span>
