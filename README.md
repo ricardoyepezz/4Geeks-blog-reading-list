@@ -1,10 +1,10 @@
-# WebApp boilerplate with React JS
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/react-hello-webapp.git)
+# Starwars Blog Reading List
 
-<p align="center">
-<a href="https://www.loom.com/share/f37c6838b3f1496c95111e515e83dd9b"><img src="https://github.com/4GeeksAcademy/react-hello-webapp/blob/master/src/img/how-to.png?raw=true" /></a>
-</p>
+This project is part of the 4Geeks Academy Full Stack program, where a minimalistic version of the Star Wars database is created with a "Read Later" or "Favorites" list functionality.
 
+A web app is created with React that lists the people and planet entities provided by an external API called SWAPI.
+
+![Alt Text](/src/img/Animation1.gif)
 
 ### Requirements:
 - Make sure you are using node version 10
